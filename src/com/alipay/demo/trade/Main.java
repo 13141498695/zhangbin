@@ -169,6 +169,12 @@ public class Main {
         List<ExceptionInfo> exceptionInfoList = new ArrayList<ExceptionInfo>();
         exceptionInfoList.add(ExceptionInfo.HE_PRINTER);
 
+
+
+
+
+
+        
         // 填写扩展参数，如果有的话
         Map<String, Object> extendInfo = new HashMap<String, Object>();
         //        extendInfo.put("SHOP_ID", "BJ_ZZ_001");
