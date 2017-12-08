@@ -174,6 +174,8 @@ public class Main {
         //        extendInfo.put("SHOP_ID", "BJ_ZZ_001");
         //        extendInfo.put("TERMINAL_ID", "1234");
 
+
+        
         AlipayHeartbeatSynRequestBuilder builder = new AlipayHeartbeatSynRequestBuilder()
             .setProduct(Product.FP)
             .setType(Type.SOFT_POS)
